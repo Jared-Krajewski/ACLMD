@@ -20,7 +20,7 @@ Solid Pods support three different ACL modes that allow users to control the lev
 Access control for a resource in a Solid Pod is specified using an `.acl` file that is located in the same folder as the resource. The `.acl` file contains a list of agents and their corresponding permissions for the resource. The following is an example of an `.acl` file:
 
 ![Inbox ACL example](Screenshot1.png "inbox ACL example")
-
+<img src = "Screenshot1.png" >
 ![img](https://drive.google.com/file/d/1_e2Na4iokR9R1WAswYvcnNyYo9fByDmN/view?usp=share_link)
 
 ## Conclusion
